@@ -14,7 +14,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
 
 
-print("Im different again")
+print("please let me be different")
 
 iris = 'http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data'
 urlretrieve(iris)
